@@ -1,0 +1,20 @@
+{
+  "name": "mon cv",
+  "homepage": "https://github.com/HitAngry/Projet1",
+  "authors": [
+    "Simon Philouze <contact@simonphilouze.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
